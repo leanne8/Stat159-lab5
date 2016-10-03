@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+anything
+=======
 Hello, it's me!
+>>>>>>> task3B

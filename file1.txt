@@ -2,6 +2,6 @@ We are doing lab 5
 
 Today is raining.
 
-Working on this branch. and trying to fix the problem.
+Working on this branch. and trying to fix the problem…
 
-Last modification on file 1…
+Last modification on file 1.

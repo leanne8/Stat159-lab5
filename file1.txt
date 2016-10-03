@@ -1,1 +1,3 @@
 We are doing lab 5 
+
+Today is raining.

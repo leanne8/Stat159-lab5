@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 We are doing lab 5.
 
 It's pretty cool!
+=======
+We are doing lab 5
+
+Today is raining.
+>>>>>>> f3668f631dbad9f7181fb62a5f027183b387ee8d

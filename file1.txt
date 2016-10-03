@@ -6,4 +6,9 @@ It's pretty cool!
 We are doing lab 5
 
 Today is raining.
+<<<<<<< HEAD
 >>>>>>> f3668f631dbad9f7181fb62a5f027183b387ee8d
+=======
+
+Working on this branch. and trying to fix the problem.
+>>>>>>> 9de5995d5e86b5a38b04e3a6aff25246823e5918
